@@ -15,7 +15,7 @@ const config = {
 
     PROJECTS: [
         { id: "Superpack", image: "assets/img/Superpack.png", link: "https://discord.gg/tGeUTkrxhA", name: "SuperPack is a Expert-pack in 1.16.5 based on the mod Create and intelligent automation." },
-        { id: "project-2", image: "assets/img/Simplebot.png", link: "https://github.com/TheSimpleTeam/SimpleBot", name: "SimpleBot is a discord bot wrote in java using the wrapper JDA." },
+        { id: "project-2", image: "assets/img/SimpleBot.png", link: "https://github.com/TheSimpleTeam/SimpleBot", name: "SimpleBot is a discord bot wrote in java using the wrapper JDA." },
     ],
 
     SOCIALS: [
